@@ -18,16 +18,7 @@
     锻炼 20：00--20：40  每天 绿色 （雨天删除一次）
 功能介绍：
 1.创建日程，在时间轴显示
-2.创建待办任务，（移动到天，周面板）分配时间 到 形成（一次性/重复性）日程
-//名字继承，颜色继承，
+2.创建待办任务，（移动到天，周面板）分配时间  形成（一次性/重复性）日程
+//名字继承，颜色继承...
+
 希望：每一个设置都能设置
-
-
-属性：预计完成时间
-for(i=0;i<10;i++){
-    if(dayButten[i]==Event[j].getStartTime().getDayOfMonth()||
-    dayButten[i]==Event[j].getStartTime().getDayOfMonth()+频率*z)
-    {
-        dayButten[i].setBackgroundColor(颜色);
-    }
-}
